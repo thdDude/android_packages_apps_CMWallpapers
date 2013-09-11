@@ -26,12 +26,12 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>hellybean1 - thdDude</item>
-        <item>hellybean2 - thdDude</item>
-        <item>hellybean3 - thdDude</item>
-        <item>hellybean4 - thdDude</item>
-        <item>hellybean5 - thdDude</item>
-        <item>hellybean6 - thdDude</item>
-        <item>hellybean7 - thdDude</item>
+        <item>Blk/Wht - thdDude</item>
+        <item>Blk/Wht2 - thdDude</item>
+        <item>Wht/Blk - thdDude</item>
+        <item>Blk/Rd - thdDude</item>
+        <item>Blu/Wht - thdDude</item>
+        <item>Blu/Blk - thdDude</item>
+        <item>Rd/Rd - thdDude</item>
     </string-array>
 </resources>
