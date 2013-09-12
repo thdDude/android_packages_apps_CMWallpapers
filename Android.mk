@@ -21,6 +21,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := HBWallpapers
+LOCAL_PACKAGE_NAME := LiquidWallpapers
 
 include $(BUILD_PACKAGE)
