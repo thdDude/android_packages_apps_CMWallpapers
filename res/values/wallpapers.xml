@@ -16,22 +16,36 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>hellybean1</item>
-        <item>hellybean2</item>
-        <item>hellybean3</item>
-        <item>hellybean4</item>
-        <item>hellybean5</item>
-        <item>hellybean6</item>
-        <item>hellybean7</item>
+        <item>Liquid1</item>
+        <item>Liquid2</item>
+        <item>Liquid3</item>
+        <item>Liquid4</item>
+        <item>Liquid5</item>
+        <item>Liquid6</item>
+        <item>Liquid7</item>
+        <item>Liquid8</item>
+        <item>Liquid9</item>
+        <item>Liquid10</item>
+        <item>Liquid11</item>
+        <item>Liquid12</item>
+        <item>Liquid13</item>
+        <item>Liquid14</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Blk/Wht - thdDude</item>
-        <item>Blk/Wht2 - thdDude</item>
-        <item>Wht/Blk - thdDude</item>
-        <item>Blk/Rd - thdDude</item>
-        <item>Blu/Wht - thdDude</item>
-        <item>Blu/Blk - thdDude</item>
-        <item>Rd/Rd - thdDude</item>
+        <item>Crystals - Liquid</item>
+        <item>Blue - Liquid</item>
+        <item>Green - Liquid</item>
+        <item>Grey - Liquid</item>
+        <item>LGrey - Liquid</item>
+        <item>Wavey - Liquid</item>
+        <item>Smooth - Liquid</item>
+        <item>Circles - Liquid</item>
+        <item>Logo - Liquid</item>
+        <item>Blur - Liquid</item>
+        <item>Waves - Liquid</item>
+        <item>BWaves - Liquid</item>
+        <item>PWaves - Liquid</item>
+        <item>Purple - Liquid</item>
     </string-array>
 </resources>
