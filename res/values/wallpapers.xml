@@ -16,20 +16,20 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>Liquid1</item>
-        <item>Liquid2</item>
-        <item>Liquid3</item>
-        <item>Liquid4</item>
-        <item>Liquid5</item>
-        <item>Liquid6</item>
-        <item>Liquid7</item>
-        <item>Liquid8</item>
-        <item>Liquid9</item>
-        <item>Liquid10</item>
-        <item>Liquid11</item>
-        <item>Liquid12</item>
-        <item>Liquid13</item>
-        <item>Liquid14</item>
+        <item>liquid1</item>
+        <item>liquid2</item>
+        <item>liquid3</item>
+        <item>liquid4</item>
+        <item>liquid5</item>
+        <item>liquid6</item>
+        <item>liquid7</item>
+        <item>liquid8</item>
+        <item>liquid9</item>
+        <item>liquid10</item>
+        <item>liquid11</item>
+        <item>liquid12</item>
+        <item>liquid13</item>
+        <item>liquid14</item>
     </string-array>
 
     <string-array name="info" translatable="false">
