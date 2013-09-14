@@ -23,15 +23,29 @@
         <item>hellybean5</item>
         <item>hellybean6</item>
         <item>hellybean7</item>
+        <item>hellybean8</item>
+        <item>hellybean9</item>
+        <item>hellybean10</item>
+        <item>hellybean11</item>
+        <item>hellybean12</item>
+        <item>hellybean13</item>
+        <item>hellybean14</item>		
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Blk/Wht - thdDude</item>
-        <item>Blk/Wht2 - thdDude</item>
-        <item>Wht/Blk - thdDude</item>
-        <item>Blk/Rd - thdDude</item>
-        <item>Blu/Wht - thdDude</item>
-        <item>Blu/Blk - thdDude</item>
-        <item>Rd/Rd - thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+	    <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>
+        <item>thdDude</item>	
     </string-array>
 </resources>
